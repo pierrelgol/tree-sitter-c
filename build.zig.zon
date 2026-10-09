@@ -5,8 +5,8 @@
     .version = "0.24.2",
     .dependencies = .{
         .tree_sitter = .{
-            .url = "git+https://github.com/tree-sitter/zig-tree-sitter#0cf58172e61f6fdd16f681cde42b4acb531a23db",
-            .hash = "tree_sitter-0.26.0-8heIf3CaAQDeVTQc0DMSBhbQAEx5aF-dTen4_LPxMgrv",
+            .url = "git+https://github.com/pierrelgol/zig-tree-sitter#2a2aa06084e4ef694c637d7f5172842df2925600",
+            .hash = "tree_sitter-0.26.0-8heIfw3EAQBy5OjMgc_-ml9-1Dbx4GXSL3snukMscp_Q",
             .lazy = true,
         },
     },
